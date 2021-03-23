@@ -2,11 +2,9 @@
 
 ### 作業03部分
 
-Insert data<br/>
-![image](https://user-images.githubusercontent.com/77526071/112166144-56572980-8c2a-11eb-87f0-8303d1411a73.png)
-
+Insert data</br>
 SELECT * FROM user</br>
-![image](https://user-images.githubusercontent.com/77526071/112166785-e8f7c880-8c2a-11eb-9818-320c63faaa9d.png)
+![image](https://user-images.githubusercontent.com/77526071/112166144-56572980-8c2a-11eb-87f0-8303d1411a73.png)
 
 SELECT COUNT(*) FROM user</br>
 ![image](https://user-images.githubusercontent.com/77526071/112166936-0a58b480-8c2b-11eb-8231-25e37690c530.png)
