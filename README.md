@@ -27,7 +27,7 @@ UPDATE SET username = "丁滿" WHERE username = "ply";</br>
 ![image](https://user-images.githubusercontent.com/77526071/112167929-d336d300-8c2b-11eb-90a3-567c2fec55c3.png)
 
 DELETE data</br>
-
+![image](https://user-images.githubusercontent.com/77526071/112170690-39bcf080-8c2e-11eb-9565-e09afaf0e66c.png)
 
 ### 作業04部分
 
